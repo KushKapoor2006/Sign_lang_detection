@@ -6,4 +6,5 @@ Using CNN (Tensorflow) along with OpenCV and Mediapipe for real time transmissio
 and integrating them with frontend interfaces using OnDemand's APIs.
 
 Backend: Flask
+
 Frontend: Material UI 3
